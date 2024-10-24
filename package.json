@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto modelo para as aulas Back-End com Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limabea23/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Boilerplate",
+    "SENAI",
+    "Back-end",
+    "Dev"
+  ],
+  "author": "Beatriz Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limabea23/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/limabea23/nodejs-first-boilerplate#readme"
+}
