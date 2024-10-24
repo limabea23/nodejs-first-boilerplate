@@ -13,4 +13,5 @@ routes.get("/", (req, res) => {
 // Lista de uso das rotas do projeto
 routes.use("/usuarios", usuariosRoutes);
 
+
 export default routes;
